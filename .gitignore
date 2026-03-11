@@ -1,16 +1,11 @@
-# Python
+# Python and Virtual Environments
+.venv/
 __pycache__/
 *.pyc
 *.pyo
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Add more patterns here:
-# - Virtual environment: .venv/
-# - Data files: *.csv, *.parquet, *.xlsx, data/raw/
-# - Secrets: .env
-# - OS artifacts: .DS_Store
 
 # Secrets and credentials
 .env
